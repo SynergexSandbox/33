@@ -6,7 +6,7 @@
 **Products:** Synergy DBL; ActiveX API; xfServer; VB .NET \
 **Minimum Version:** 10.3.3f \
 **Author:** Sunny Wong RC 
----
+<hr>
 **Additional Information:** This is a normal description.<br />
 <b>This is a bold description.</b><br />
 <i>This is an italic description.</i><br />
