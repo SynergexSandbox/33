@@ -1,4 +1,4 @@
-# Testing additional notes \
+# Testing additional notes
 **Created Date:** 7/30/2021 \
 **Last Updated:** N/A \
 **Description:** This is a brief description.\
