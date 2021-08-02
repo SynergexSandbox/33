@@ -1,5 +1,5 @@
 # Testing additional notes
-**Created Date:** 7/30/2021 \
+**Created Date:** 7/30/2021 <br />
 **Last Updated:** N/A \
 **Description:** This is a brief description.\
 **Platforms:** Windows; Unix; OpenVMS \
